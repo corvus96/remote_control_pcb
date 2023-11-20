@@ -274,7 +274,16 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(C4-Pad1)": "BAT_PLUS",
+      "Net-(J1-VBUS)": "VBUS",
+      "Net-(U1-3V3)": "3V3",
+      "unconnected-(R1-Pad1)": "3V3",
+      "unconnected-(R3-Pad1)": "VBUS",
+      "unconnected-(R4-Pad1)": "3V3",
+      "unconnected-(U4-VREGIN-Pad7)": "BAT_PLUS",
+      "unconnected-(U5-IN-Pad13)": "VBUS"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
