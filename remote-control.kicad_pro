@@ -427,6 +427,8 @@
       "Net-(SW3-B-Pad3)": "3V3",
       "Net-(U1-3V3)": "3V3",
       "Net-(U7-H+)": "3V3",
+      "unconnected-(J3-VDD-Pad4)": "3v3",
+      "unconnected-(J4-Pin_2-Pad2)": "3V3",
       "unconnected-(R1-Pad1)": "3V3",
       "unconnected-(R3-Pad1)": "VBUS",
       "unconnected-(R4-Pad1)": "3V3",
